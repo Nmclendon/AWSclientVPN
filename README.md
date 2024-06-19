@@ -19,7 +19,7 @@ CNE 430 final where we configure a client VPN deployment allowing workstations t
 
 **.yaml file**
 
-Please see the yaml directory for the configuration file.
+- Please see the yaml directory for the configuration file, and information on the modifications you will need to make to it.
 
 ### Step 2: Create Simple AD Service
 
